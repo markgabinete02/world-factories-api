@@ -1,0 +1,42 @@
+_id: req_edf2a527d41d4e65ac95e82217fbb8e3
+type: Request
+parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
+modified: 1655463044569
+created: 1655450063605
+url: http://world-factory.test/api/verify-code
+name: verifiy-code
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_f2dc1a4f827e424fbb0564c7da6a1c8a
+      name: contact_number
+      value: "09267776670"
+      description: ""
+    - id: pair_36622b43b2c748bdaa5a599947a6abc6
+      name: code
+      value: "3428"
+      description: ""
+    - id: pair_d4b899c7a70a4cf1a9a3ec721a9ca3c4
+      name: ""
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_8d65ed2f5017498d9a397e564f69edc9
+  - id: pair_539c13ac2ceb4399adfdd4277d3f6734
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1655447291210
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

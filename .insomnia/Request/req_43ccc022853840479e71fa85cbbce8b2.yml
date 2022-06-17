@@ -1,0 +1,32 @@
+_id: req_43ccc022853840479e71fa85cbbce8b2
+type: Request
+parentId: fld_4dbac48e6718411bb265de01dbd2f298
+modified: 1655470463881
+created: 1655470429654
+url: http://world-factory.test/api/vendor/products/2
+name: show
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_a26518b1ce634709a8e1aff2a75799e2
+  - id: pair_03f24e8cc05d4e91a5d1e0e50c76b448
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 2|TMZUTOGw03CistAOAV9XkNTRjgZmxZnzGPHFm6Q1
+metaSortKey: -1655469845651.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

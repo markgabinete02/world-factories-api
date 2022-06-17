@@ -1,0 +1,73 @@
+_id: req_46c3491f6656459390b5695a858b0842
+type: Request
+parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
+modified: 1655469641312
+created: 1655458936316
+url: http://world-factory.test/api/user/1
+name: update-account
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_89d6795cfec64594a6f167d4b8fd55cf
+      name: name
+      value: Jane Cooper
+      description: optional
+    - id: pair_4ed7f000498445beb49ce0183f603470
+      name: email
+      value: cooper@mail.com
+      description: optional
+    - id: pair_899c52389dfc4008888183f9a5c9b325
+      name: country_id
+      value: "1"
+      description: ""
+    - id: pair_78fd0c0c3d4a4da9b9b1846fa0c5c3fa
+      name: city
+      value: ""
+      description: ""
+    - id: pair_9dd1cbd7e7cd4b64b90fd1555f498c33
+      name: description
+      value: ""
+      description: optional
+    - id: pair_dcfc16042e084ecda70b993719004c1b
+      name: industrial_license
+      value: ""
+      description: optional
+    - id: pair_182b6c8a704b43409afca47ad9d7f6fa
+      name: plan
+      value: ""
+      description: optional
+    - id: pair_eac47925de954dc6b4c030e129982ed0
+      name: type
+      value: Vendor
+      description: ""
+    - id: pair_c1042be5f6c640878ab52b6b8e6d3ffa
+      name: address
+      value: ""
+      description: ""
+    - id: pair_2e56a6eb95e24771b9d97ef7cb575f0e
+      name: _method
+      value: PUT
+      description: required
+      disabled: false
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_f9e5d449aded46278e1df947a3c88d65
+  - id: pair_805fd1c0df6848869af4dabf040c596c
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 2|TMZUTOGw03CistAOAV9XkNTRjgZmxZnzGPHFm6Q1
+metaSortKey: -1655447291197.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
