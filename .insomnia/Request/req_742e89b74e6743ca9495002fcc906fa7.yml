@@ -1,9 +1,9 @@
 _id: req_742e89b74e6743ca9495002fcc906fa7
 type: Request
 parentId: fld_4dbac48e6718411bb265de01dbd2f298
-modified: 1655470952810
+modified: 1655693712562
 created: 1655470851456
-url: http://world-factory.test/api/vendor/products/2
+url: http://world-factory-web.test/api/vendor/products/2
 name: update
 description: ""
 method: POST
@@ -33,7 +33,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 2|TMZUTOGw03CistAOAV9XkNTRjgZmxZnzGPHFm6Q1
+  token: 1|2R3RttKZ3DvpvRxwzsrQa6aVzm1b6vLPmdM139yc
 metaSortKey: -1655469845657.4062
 isPrivate: false
 settingStoreCookies: true

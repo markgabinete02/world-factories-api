@@ -1,9 +1,9 @@
 _id: req_46c3491f6656459390b5695a858b0842
 type: Request
 parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
-modified: 1655469641312
+modified: 1655724484661
 created: 1655458936316
-url: http://world-factory.test/api/user/1
+url: http://world-factory-web.test/api/user/1
 name: update-account
 description: ""
 method: POST
@@ -51,6 +51,10 @@ body:
       value: PUT
       description: required
       disabled: false
+    - id: pair_2cea8e9079234af7b5c0493d030c1b99
+      name: address
+      value: sample address
+      description: ""
 parameters: []
 headers:
   - name: Content-Type
@@ -62,8 +66,8 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 2|TMZUTOGw03CistAOAV9XkNTRjgZmxZnzGPHFm6Q1
-metaSortKey: -1655447291197.5
+  token: 1|2R3RttKZ3DvpvRxwzsrQa6aVzm1b6vLPmdM139yc
+metaSortKey: -1655447291202.1875
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

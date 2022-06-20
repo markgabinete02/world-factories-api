@@ -1,9 +1,9 @@
 _id: req_1926358ec758476988660fec233ff7e9
 type: Request
 parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
-modified: 1655471708373
+modified: 1655693614013
 created: 1655447322379
-url: http://world-factory.test/api/verify-contact-number
+url: http://world-factory-web.test/api/verify-contact-number
 name: verify-number
 description: ""
 method: POST
@@ -12,12 +12,16 @@ body:
   params:
     - id: pair_f2dc1a4f827e424fbb0564c7da6a1c8a
       name: contact_number
-      value: "09267776670"
+      value: "09269076915"
       description: ""
     - id: pair_775c69d2f20d49e5b1e5683e5e25b79e
       name: _action
       value: login
       description: choose if login, register
+    - id: pair_aaf622a362c04b589985609df38f3fe7
+      name: ""
+      value: ""
+      description: ""
 parameters: []
 headers:
   - name: Content-Type
