@@ -1,0 +1,48 @@
+_id: req_ca9d3e02df874388a667e2299924121a
+type: Request
+parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
+modified: 1655731084879
+created: 1655727275915
+url: http://world-factory-web.test/api/admin/login
+name: admin-login
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_f2dc1a4f827e424fbb0564c7da6a1c8a
+      name: email
+      value: admin@mail.com
+      description: ""
+    - id: pair_c6e94f1d1e4b4c87b740a603fdd61369
+      name: password
+      value: admin
+      description: defaul pass - admin
+    - id: pair_d4b899c7a70a4cf1a9a3ec721a9ca3c4
+      name: ""
+      value: ""
+      description: ""
+    - id: pair_41b1ad0dfe72478ba4cd50b59e0ecf7c
+      name: ""
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_8d65ed2f5017498d9a397e564f69edc9
+  - id: pair_539c13ac2ceb4399adfdd4277d3f6734
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 3|kmzQXjJSFp7ISwd7n2dFODK0p561r2wJFOtsv5hz
+metaSortKey: -1655447291206.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

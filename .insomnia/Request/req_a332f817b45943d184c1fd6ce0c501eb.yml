@@ -1,0 +1,32 @@
+_id: req_a332f817b45943d184c1fd6ce0c501eb
+type: Request
+parentId: fld_c96a3e5945ef4413935e0aa3db5e6fdb
+modified: 1655731178353
+created: 1655730764999
+url: http://world-factory-web.test/api/admin/categories/3
+name: show
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_27f6e73acd3a47ebb42d66a08c4b290b
+  - id: pair_03c537a9d6e64ebdbf84c64cefe23ad6
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|TQM91SrKWqtycdmnZ3QUEqddWA3QfW8V4ry2qMWt
+metaSortKey: -1655659377597.9688
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

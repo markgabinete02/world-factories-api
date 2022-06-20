@@ -1,0 +1,44 @@
+_id: req_795f8c3e20854347b1f606df037e90c3
+type: Request
+parentId: fld_c96a3e5945ef4413935e0aa3db5e6fdb
+modified: 1655731265698
+created: 1655731236171
+url: http://world-factory-web.test/api/admin/categories/12
+name: update
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_32ac0a46c60b496a82c01ada6e29d5dd
+      name: title_en
+      value: Category Updated
+      description: ""
+    - id: pair_4f69ae07000347cda23b2103c66ec1e3
+      name: title_ar
+      value: ""
+      description: optional
+    - id: pair_1af3a91bfb0d4679847d13dfd44ad358
+      name: _method
+      value: PUT
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_27f6e73acd3a47ebb42d66a08c4b290b
+  - id: pair_03c537a9d6e64ebdbf84c64cefe23ad6
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|TQM91SrKWqtycdmnZ3QUEqddWA3QfW8V4ry2qMWt
+metaSortKey: -1655694018262.9844
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

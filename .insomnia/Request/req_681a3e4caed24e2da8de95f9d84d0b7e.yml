@@ -1,0 +1,32 @@
+_id: req_681a3e4caed24e2da8de95f9d84d0b7e
+type: Request
+parentId: fld_c96a3e5945ef4413935e0aa3db5e6fdb
+modified: 1655731207563
+created: 1655731195661
+url: http://world-factory-web.test/api/admin/categories/11
+name: delete
+description: ""
+method: DELETE
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_27f6e73acd3a47ebb42d66a08c4b290b
+  - id: pair_03c537a9d6e64ebdbf84c64cefe23ad6
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|TQM91SrKWqtycdmnZ3QUEqddWA3QfW8V4ry2qMWt
+metaSortKey: -1655624736932.9531
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
