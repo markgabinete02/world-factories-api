@@ -1,0 +1,42 @@
+_id: req_4454b3123f254990a0a725642f4bb1b0
+type: Request
+parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
+modified: 1655817117185
+created: 1655816070014
+url: http://world-factory-web.test/api/contact-us
+name: contact-us
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_e822dc81586a41a6990e9f60318e1088
+      name: email
+      value: test@mail.com
+      description: ""
+    - id: pair_da485757589e409c81d449787cf1ca83
+      name: subject
+      value: test
+      description: ""
+    - id: pair_a483ecfaab9d464490fac5ee03dca253
+      name: content
+      value: test
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_e7e0459b5d8249d791397da74d635548
+  - id: pair_ad6961fe210c4292913f00276fbc8d50
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1655816070014
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

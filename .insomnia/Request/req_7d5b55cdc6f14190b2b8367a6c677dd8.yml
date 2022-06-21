@@ -1,9 +1,9 @@
 _id: req_7d5b55cdc6f14190b2b8367a6c677dd8
 type: Request
 parentId: fld_c96a3e5945ef4413935e0aa3db5e6fdb
-modified: 1655735670432
+modified: 1655807348207
 created: 1655728658928
-url: http://world-factory-web.test/api/admin/categories$$
+url: http://world-factory-web.test/api/admin/categories
 name: add
 description: ""
 method: POST

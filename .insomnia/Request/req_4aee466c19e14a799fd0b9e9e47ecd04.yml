@@ -1,22 +1,21 @@
-_id: req_96f6b566501e4544bdb7cb30d0b35a7d
+_id: req_4aee466c19e14a799fd0b9e9e47ecd04
 type: Request
 parentId: fld_81a856a4024142599fa6cd6658733ddf
-modified: 1655811715168
-created: 1655710429846
-url: http://world-factory-web.test/api/products
-name: all-products
+modified: 1655811851936
+created: 1655808243257
+url: http://world-factory-web.test/api/sub-categories
+name: all-sub-categories
 description: ""
 method: GET
 body: {}
 parameters:
-  - id: pair_dfb1eabccceb4e4d9ec5f2f8e07fed44
-    name: factory_id
+  - id: pair_d28696eb36a44ee1878f2ceb431eb7be
+    name: category_id
     value: "1"
     description: ""
-    disabled: false
 headers: []
 authentication: {}
-metaSortKey: -1655529970965.4062
+metaSortKey: -1655484877040.0703
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
