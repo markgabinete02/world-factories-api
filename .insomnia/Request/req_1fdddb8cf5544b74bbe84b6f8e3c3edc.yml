@@ -1,7 +1,7 @@
 _id: req_1fdddb8cf5544b74bbe84b6f8e3c3edc
 type: Request
 parentId: fld_4dbac48e6718411bb265de01dbd2f298
-modified: 1655807487481
+modified: 1655995949068
 created: 1655469883815
 url: http://world-factory-web.test/api/factory/products
 name: store
@@ -43,7 +43,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 1|ssUTQiHOgSbvqK0QlqTjIcqZdSdQ1zbadIfF7IMv
+  token: 1|aKw2rueEWlG95cLZJpmu1tzBSwwcV3mwjfVudwCh
 metaSortKey: -1655469845662.875
 isPrivate: false
 settingStoreCookies: true

@@ -1,9 +1,9 @@
-_id: req_7d5b55cdc6f14190b2b8367a6c677dd8
+_id: req_43889988d2444a689dd3aeafbaa82aef
 type: Request
-parentId: fld_c96a3e5945ef4413935e0aa3db5e6fdb
-modified: 1655996860434
-created: 1655728658928
-url: http://world-factory-web.test/api/admin/categories
+parentId: fld_7520cf2768ec40da80bda4a6dd5e8ffa
+modified: 1655998259744
+created: 1655998249395
+url: http://world-factory-web.test/api/admin/about-us
 name: add
 description: ""
 method: POST
@@ -11,11 +11,11 @@ body:
   mimeType: multipart/form-data
   params:
     - id: pair_32ac0a46c60b496a82c01ada6e29d5dd
-      name: title_en
-      value: Category 9
+      name: body_en
+      value: Sample Policy
       description: ""
     - id: pair_4f69ae07000347cda23b2103c66ec1e3
-      name: title_ar
+      name: body_ar
       value: ""
       description: optional
 parameters: []
@@ -29,7 +29,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 4|n6mxeZh3w78pSNN3knRC3MGAE5vBPLaKVhz0L2w7
+  token: 1|l3gKZeiXQ4gABxKyhYrpIgyQVu3MaoKuMTp6zOj4
 metaSortKey: -1655728658928
 isPrivate: false
 settingStoreCookies: true

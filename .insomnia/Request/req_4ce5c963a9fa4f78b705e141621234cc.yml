@@ -1,0 +1,26 @@
+_id: req_4ce5c963a9fa4f78b705e141621234cc
+type: Request
+parentId: fld_81a856a4024142599fa6cd6658733ddf
+modified: 1655998985998
+created: 1655998978718
+url: http://world-factory-web.test/api/about-us
+name: about-us
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_d28696eb36a44ee1878f2ceb431eb7be
+    name: category_id
+    value: "1"
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1655473603559.5176
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

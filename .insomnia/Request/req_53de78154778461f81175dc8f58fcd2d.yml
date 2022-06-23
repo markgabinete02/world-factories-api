@@ -1,7 +1,7 @@
 _id: req_53de78154778461f81175dc8f58fcd2d
 type: Request
 parentId: fld_81a856a4024142599fa6cd6658733ddf
-modified: 1655888913179
+modified: 1655910904528
 created: 1655747451512
 url: http://world-factory-web.test/api/factories
 name: all-factories
@@ -13,11 +13,12 @@ parameters:
     name: country_id
     value: "1"
     description: ""
-    disabled: true
+    disabled: false
   - id: pair_8fb0380ae2b245f2a94e8e649eb14b40
     name: category_id
     value: "1"
     description: ""
+    disabled: false
   - id: pair_76cb0e32c1fb42f29d784cff2b38f53e
     name: sub_category_id
     value: "1"

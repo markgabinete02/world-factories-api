@@ -1,0 +1,26 @@
+_id: req_e4972e1bc49043048aa50ee8b07092d4
+type: Request
+parentId: fld_81a856a4024142599fa6cd6658733ddf
+modified: 1655997684059
+created: 1655997675500
+url: http://world-factory-web.test/api/privacy-policy
+name: privacy-policy
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_d28696eb36a44ee1878f2ceb431eb7be
+    name: category_id
+    value: "1"
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1655477361403.0352
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

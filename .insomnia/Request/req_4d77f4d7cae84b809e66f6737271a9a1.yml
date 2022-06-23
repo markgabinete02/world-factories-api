@@ -1,0 +1,32 @@
+_id: req_4d77f4d7cae84b809e66f6737271a9a1
+type: Request
+parentId: fld_f7623da338114e59a56f5473ecaefc3f
+modified: 1655997964936
+created: 1655997125614
+url: http://world-factory-web.test/api/admin/privacy-policy/1
+name: show
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_27f6e73acd3a47ebb42d66a08c4b290b
+  - id: pair_03c537a9d6e64ebdbf84c64cefe23ad6
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|l3gKZeiXQ4gABxKyhYrpIgyQVu3MaoKuMTp6zOj4
+metaSortKey: -1655659377597.9688
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
