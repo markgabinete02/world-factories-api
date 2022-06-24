@@ -1,12 +1,12 @@
-_id: req_0ac776f228454c8aaa6f36aac0b959ae
+_id: req_9b6dba5089dc4038ac01f7ba27ab678f
 type: Request
-parentId: fld_4dbac48e6718411bb265de01dbd2f298
-modified: 1656060810141
-created: 1655470711430
-url: http://world-factory-web.test/api/factory/products/20
-name: delete
+parentId: fld_550bbbfc108b450cb5fa84ed165d2839
+modified: 1656071969133
+created: 1656069986887
+url: http://world-factory-web.test/api/factory/subscriptions
+name: subscribe
 description: ""
-method: DELETE
+method: GET
 body:
   mimeType: multipart/form-data
   params: []
@@ -14,15 +14,15 @@ parameters: []
 headers:
   - name: Content-Type
     value: multipart/form-data
-    id: pair_a26518b1ce634709a8e1aff2a75799e2
-  - id: pair_03f24e8cc05d4e91a5d1e0e50c76b448
+    id: pair_392176d251ae4a3c9f30780f5d936e2c
+  - id: pair_7c1d19fdf9354961960366c242b1b48c
     name: Accept
     value: application/json
     description: ""
 authentication:
   type: bearer
-  token: 2|jigphKpyGiWPDvQBWgz3PrUCEHKH486w6NdymH5t
-metaSortKey: -1655469845643.7344
+  token: 1|vqBGOlMvlv7SYZLWiIV0qd7DTOTdxWIzdMiZWV2u
+metaSortKey: -1656017272873
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,7 +1,7 @@
 _id: req_cc6ac1721cda4b62bb24dc2759ac66bd
 type: Request
 parentId: fld_89dc7127724544108a0bb9348da0a599
-modified: 1655996850128
+modified: 1656072865407
 created: 1655468115058
 url: http://world-factory-web.test/api/user
 name: get-user
@@ -12,7 +12,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: 4|n6mxeZh3w78pSNN3knRC3MGAE5vBPLaKVhz0L2w7
+  token: 1|VCXzVChRzAvbPBlg87VU0yawZl5dYC4imzzwBOw1
 metaSortKey: -1655469845716
 isPrivate: false
 settingStoreCookies: true

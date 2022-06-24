@@ -1,9 +1,9 @@
-_id: req_0ac776f228454c8aaa6f36aac0b959ae
+_id: req_bd9a51fee4a0468f92b6719e958a8a35
 type: Request
-parentId: fld_4dbac48e6718411bb265de01dbd2f298
-modified: 1656060810141
-created: 1655470711430
-url: http://world-factory-web.test/api/factory/products/20
+parentId: fld_afb8aaf6109a45c49bae94bea4432c12
+modified: 1656051054189
+created: 1656050425024
+url: http://world-factory-web.test/api/admin/accounts/3
 name: delete
 description: ""
 method: DELETE
@@ -14,15 +14,15 @@ parameters: []
 headers:
   - name: Content-Type
     value: multipart/form-data
-    id: pair_a26518b1ce634709a8e1aff2a75799e2
-  - id: pair_03f24e8cc05d4e91a5d1e0e50c76b448
+    id: pair_27f6e73acd3a47ebb42d66a08c4b290b
+  - id: pair_03c537a9d6e64ebdbf84c64cefe23ad6
     name: Accept
     value: application/json
     description: ""
 authentication:
   type: bearer
-  token: 2|jigphKpyGiWPDvQBWgz3PrUCEHKH486w6NdymH5t
-metaSortKey: -1655469845643.7344
+  token: 2|118pvs0LlRdzwqqmOnV8eTSTYetpkiceapIxehpp
+metaSortKey: -1655624736932.9531
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

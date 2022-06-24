@@ -1,7 +1,7 @@
 _id: req_edf2a527d41d4e65ac95e82217fbb8e3
 type: Request
 parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
-modified: 1655748267230
+modified: 1656072833454
 created: 1655450063605
 url: http://world-factory-web.test/api/verify-code
 name: verifiy-code
@@ -12,15 +12,11 @@ body:
   params:
     - id: pair_f2dc1a4f827e424fbb0564c7da6a1c8a
       name: contact_number
-      value: "09123456789"
+      value: "09269076915"
       description: ""
     - id: pair_36622b43b2c748bdaa5a599947a6abc6
       name: code
-      value: "5147"
-      description: ""
-    - id: pair_d4b899c7a70a4cf1a9a3ec721a9ca3c4
-      name: ""
-      value: ""
+      value: "8534"
       description: ""
 parameters: []
 headers:

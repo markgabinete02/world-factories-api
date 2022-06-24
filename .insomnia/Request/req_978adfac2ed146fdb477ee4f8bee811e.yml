@@ -1,0 +1,96 @@
+_id: req_978adfac2ed146fdb477ee4f8bee811e
+type: Request
+parentId: fld_afb8aaf6109a45c49bae94bea4432c12
+modified: 1656055166972
+created: 1656050610629
+url: http://world-factory-web.test/api/admin/accounts/1
+name: update
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_89d6795cfec64594a6f167d4b8fd55cf
+      name: name
+      value: Jane Cooper
+      description: optional
+    - id: pair_4ed7f000498445beb49ce0183f603470
+      name: email
+      value: jane@mail.com
+      description: optional
+    - id: pair_899c52389dfc4008888183f9a5c9b325
+      name: country_id
+      value: "1"
+      description: ""
+      disabled: true
+    - id: pair_78fd0c0c3d4a4da9b9b1846fa0c5c3fa
+      name: city
+      value: ""
+      description: ""
+      disabled: true
+    - id: pair_9dd1cbd7e7cd4b64b90fd1555f498c33
+      name: description
+      value: ""
+      description: optional
+      disabled: true
+    - id: pair_dcfc16042e084ecda70b993719004c1b
+      name: industrial_license
+      value: ""
+      description: optional
+      disabled: true
+    - id: pair_182b6c8a704b43409afca47ad9d7f6fa
+      name: plan
+      value: ""
+      description: optional
+      disabled: true
+    - id: pair_eac47925de954dc6b4c030e129982ed0
+      name: type
+      value: Staff
+      description: ""
+    - id: pair_c1042be5f6c640878ab52b6b8e6d3ffa
+      name: address
+      value: ""
+      description: ""
+    - id: pair_2e56a6eb95e24771b9d97ef7cb575f0e
+      name: _method
+      value: PUT
+      description: required
+      disabled: false
+    - id: pair_2cea8e9079234af7b5c0493d030c1b99
+      name: address
+      value: sample address
+      description: ""
+    - id: pair_62ab3f78455d49cebc463e8e7d1baba3
+      name: password
+      value: staff
+      description: ""
+      disabled: true
+    - id: pair_c55c6ac927a84a14a83e79c46aa5ac9e
+      name: password_confirmation
+      value: staff
+      description: ""
+      disabled: true
+    - id: pair_78e5f9d09ee24b3882374774ec6b0822
+      name: ""
+      value: ""
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_f9e5d449aded46278e1df947a3c88d65
+  - id: pair_805fd1c0df6848869af4dabf040c596c
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|2R3RttKZ3DvpvRxwzsrQa6aVzm1b6vLPmdM139yc
+metaSortKey: -1655694018287.9844
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

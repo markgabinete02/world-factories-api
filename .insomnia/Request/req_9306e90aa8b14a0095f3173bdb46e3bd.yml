@@ -1,0 +1,48 @@
+_id: req_9306e90aa8b14a0095f3173bdb46e3bd
+type: Request
+parentId: fld_550bbbfc108b450cb5fa84ed165d2839
+modified: 1656071962190
+created: 1656068409120
+url: http://world-factory-web.test/api/factory/subscriptions
+name: subscribe
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_72eaa58a7d454b84b1516e24ce48c38b
+      name: card_number
+      value: "123456789012"
+      description: ""
+    - id: pair_318521a07b29408a9778b03fa0fe6fc2
+      name: card_holder
+      value: Test Factory
+      description: ""
+    - id: pair_08687a009e67448088e8cb8b741c57fb
+      name: expiration_date
+      value: 12/12/2026
+      description: ""
+    - id: pair_f997c9d04d8c4e83aaf9c1822c77d73f
+      name: plan_id
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_392176d251ae4a3c9f30780f5d936e2c
+  - id: pair_7c1d19fdf9354961960366c242b1b48c
+    name: Accept
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+  token: 1|vqBGOlMvlv7SYZLWiIV0qd7DTOTdxWIzdMiZWV2u
+metaSortKey: -1656068409120
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
