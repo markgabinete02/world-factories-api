@@ -1,7 +1,7 @@
 _id: req_9b6dba5089dc4038ac01f7ba27ab678f
 type: Request
 parentId: fld_550bbbfc108b450cb5fa84ed165d2839
-modified: 1656071969133
+modified: 1658080611538
 created: 1656069986887
 url: http://world-factory-web.test/api/factory/subscriptions
 name: subscribe
@@ -21,7 +21,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 1|vqBGOlMvlv7SYZLWiIV0qd7DTOTdxWIzdMiZWV2u
+  token: 2|D7wgzhK5iG38gBOhDSIh3KLj53YgSC2F1Za8SLYd
 metaSortKey: -1656017272873
 isPrivate: false
 settingStoreCookies: true

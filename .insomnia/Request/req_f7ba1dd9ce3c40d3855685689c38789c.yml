@@ -1,7 +1,7 @@
 _id: req_f7ba1dd9ce3c40d3855685689c38789c
 type: Request
 parentId: fld_afb8aaf6109a45c49bae94bea4432c12
-modified: 1656050817328
+modified: 1657715935915
 created: 1656050480156
 url: http://world-factory-web.test/api/admin/accounts
 name: add
@@ -16,12 +16,13 @@ body:
       description: optional
     - id: pair_4ed7f000498445beb49ce0183f603470
       name: email
-      value: jane@mail.com
+      value: richardordinario55@mail.com
       description: optional
     - id: pair_899c52389dfc4008888183f9a5c9b325
       name: country_id
       value: "1"
       description: ""
+      disabled: true
     - id: pair_78fd0c0c3d4a4da9b9b1846fa0c5c3fa
       name: city
       value: ""
@@ -63,10 +64,12 @@ body:
       name: password
       value: "123456"
       description: ""
+      disabled: true
     - id: pair_c55c6ac927a84a14a83e79c46aa5ac9e
       name: password_confirmation
       value: "123456"
       description: ""
+      disabled: true
     - id: pair_78e5f9d09ee24b3882374774ec6b0822
       name: ""
       value: ""
@@ -82,7 +85,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 2|118pvs0LlRdzwqqmOnV8eTSTYetpkiceapIxehpp
+  token: 6|TXA6Zjs52mW1pGC7sDx8ZDfSNnqr3tS1JdDta8cl
 metaSortKey: -1655694018312.9844
 isPrivate: false
 settingStoreCookies: true

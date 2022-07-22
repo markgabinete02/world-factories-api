@@ -1,7 +1,7 @@
 _id: req_edf2a527d41d4e65ac95e82217fbb8e3
 type: Request
 parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
-modified: 1656072833454
+modified: 1658080536050
 created: 1655450063605
 url: http://world-factory-web.test/api/verify-code
 name: verifiy-code
@@ -16,7 +16,7 @@ body:
       description: ""
     - id: pair_36622b43b2c748bdaa5a599947a6abc6
       name: code
-      value: "8534"
+      value: "1934"
       description: ""
 parameters: []
 headers:

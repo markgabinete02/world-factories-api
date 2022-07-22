@@ -1,9 +1,9 @@
 _id: req_899fb9bda85d4319a8774127bef68a97
 type: Request
 parentId: fld_89dc7127724544108a0bb9348da0a599
-modified: 1655996864739
+modified: 1656511701402
 created: 1655996232746
-url: http://world-factory-web.test/api/logout
+url: http://worldfactorys.net/api/logout
 name: logout
 description: ""
 method: GET
@@ -14,7 +14,7 @@ parameters: []
 headers: []
 authentication:
   type: bearer
-  token: 4|n6mxeZh3w78pSNN3knRC3MGAE5vBPLaKVhz0L2w7
+  token: 4|YpnFmf92nC3mG0Qhi54caKFLM7asw4lZjvnUVY2m
 metaSortKey: -1655469845689.4375
 isPrivate: false
 settingStoreCookies: true

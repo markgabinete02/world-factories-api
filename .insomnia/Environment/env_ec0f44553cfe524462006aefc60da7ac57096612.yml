@@ -1,11 +1,14 @@
 _id: env_ec0f44553cfe524462006aefc60da7ac57096612
 type: Environment
 parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
-modified: 1655452593236
+modified: 1657176384344
 created: 1655447284394
 name: Base Environment
-data: {}
-dataPropertyOrder: {}
+data:
+  api: http://world-factory-web.test/
+dataPropertyOrder:
+  "&":
+    - api
 color: null
 isPrivate: false
 metaSortKey: 1655447284394

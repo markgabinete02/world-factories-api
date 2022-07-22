@@ -1,9 +1,9 @@
 _id: req_7d5b55cdc6f14190b2b8367a6c677dd8
 type: Request
 parentId: fld_c96a3e5945ef4413935e0aa3db5e6fdb
-modified: 1656050680347
+modified: 1657186613018
 created: 1655728658928
-url: http://world-factory-web.test/api/admin/categories
+url: "{{ _.api }}/admin/categories"
 name: add
 description: ""
 method: POST
@@ -29,7 +29,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 4|n6mxeZh3w78pSNN3knRC3MGAE5vBPLaKVhz0L2w7
+  token: 2|ERDQ5xkXsESFP3YcT5liecnW8DWb08GEXCVJx6Rm
 metaSortKey: -1655728658928
 isPrivate: false
 settingStoreCookies: true

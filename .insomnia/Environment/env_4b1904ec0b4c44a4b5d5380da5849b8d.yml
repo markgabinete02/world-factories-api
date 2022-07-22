@@ -1,0 +1,14 @@
+_id: env_4b1904ec0b4c44a4b5d5380da5849b8d
+type: Environment
+parentId: env_ec0f44553cfe524462006aefc60da7ac57096612
+modified: 1657176510032
+created: 1657176327344
+name: world-factorys
+data:
+  api: http://world-factory-web.test/api
+dataPropertyOrder:
+  "&":
+    - api
+color: null
+isPrivate: false
+metaSortKey: 1657176327344

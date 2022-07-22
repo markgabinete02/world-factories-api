@@ -1,9 +1,9 @@
 _id: req_ca9d3e02df874388a667e2299924121a
 type: Request
 parentId: wrk_0cabaff4387c4ce09c0f5da15caff004
-modified: 1656071918857
+modified: 1657176515490
 created: 1655727275915
-url: http://world-factory-web.test/api/admin/login
+url: "{{ _.api }}/admin/login"
 name: admin-staff-login
 description: ""
 method: POST

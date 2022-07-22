@@ -1,23 +1,26 @@
-_id: req_4dcb10ba55734319830ede75b6407177
+_id: req_037388367d0241ba8ce5c4da8875ecd5
 type: Request
-parentId: fld_008ba49c73564ac2b51cfcbf539369f5
-modified: 1657544682136
-created: 1656054789273
-url: http://world-factory-web.test/api/admin/update-product-limit/4
-name: update-factory-product-limit
+parentId: fld_89dc7127724544108a0bb9348da0a599
+modified: 1658083338273
+created: 1658082646902
+url: http://world-factory-web.test/api/user/image/15
+name: update-image
 description: ""
 method: POST
 body:
   mimeType: multipart/form-data
   params:
-    - id: pair_89d6795cfec64594a6f167d4b8fd55cf
-      name: product_limit
-      value: "15"
-      description: number
-    - id: pair_78e5f9d09ee24b3882374774ec6b0822
+    - id: pair_c1042be5f6c640878ab52b6b8e6d3ffa
+      name: image
+      value: ""
+      description: ""
+      type: file
+      fileName: /Users/pci/Downloads/icons8-laravel-100.png
+    - id: pair_2e56a6eb95e24771b9d97ef7cb575f0e
       name: _method
       value: PUT
-      description: ""
+      description: required
+      disabled: false
 parameters: []
 headers:
   - name: Content-Type
@@ -29,8 +32,8 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 1|MZOAWrNcn0MfE52BnlxxFl13O0Lklmy6ory51USx
-metaSortKey: -1655694018275.4844
+  token: 2|D7wgzhK5iG38gBOhDSIh3KLj53YgSC2F1Za8SLYd
+metaSortKey: -1655469845696.0781
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
