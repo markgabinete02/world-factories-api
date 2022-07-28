@@ -1,7 +1,7 @@
 _id: req_f7ba1dd9ce3c40d3855685689c38789c
 type: Request
 parentId: fld_afb8aaf6109a45c49bae94bea4432c12
-modified: 1657715935915
+modified: 1658927944944
 created: 1656050480156
 url: http://world-factory-web.test/api/admin/accounts
 name: add
@@ -46,7 +46,7 @@ body:
     - id: pair_eac47925de954dc6b4c030e129982ed0
       name: type
       value: Staff
-      description: ""
+      description: Supplier,Staff,Admin
     - id: pair_c1042be5f6c640878ab52b6b8e6d3ffa
       name: address
       value: ""
