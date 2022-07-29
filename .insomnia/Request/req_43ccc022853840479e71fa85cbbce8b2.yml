@@ -1,9 +1,9 @@
 _id: req_43ccc022853840479e71fa85cbbce8b2
 type: Request
 parentId: fld_4dbac48e6718411bb265de01dbd2f298
-modified: 1655693793527
+modified: 1659061408779
 created: 1655470429654
-url: http://world-factory-web.test/api/vendor/products/1
+url: http://world-factory-web.test/api/factory/products/1
 name: show
 description: ""
 method: GET
@@ -21,7 +21,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 1|2R3RttKZ3DvpvRxwzsrQa6aVzm1b6vLPmdM139yc
+  token: 3|QqGfy3r50FHsuOkfPsXyTwqVqqQKS8TTTzi5Sp1C
 metaSortKey: -1655469845651.9375
 isPrivate: false
 settingStoreCookies: true
