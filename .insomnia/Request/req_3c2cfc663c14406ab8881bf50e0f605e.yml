@@ -1,9 +1,9 @@
 _id: req_3c2cfc663c14406ab8881bf50e0f605e
 type: Request
 parentId: fld_4dbac48e6718411bb265de01dbd2f298
-modified: 1658087003659
+modified: 1659334063100
 created: 1658080045082
-url: http://world-factory-web.test/api/factory/product/16/images/
+url: "{{ _.api }}/factory/product/16/images/"
 name: upload_images
 description: ""
 method: POST
@@ -15,19 +15,20 @@ body:
       value: ""
       description: ""
       type: file
-      fileName: /Users/pci/Downloads/icons8-laravel-100.png
+      fileName: C:\Users\richa\Downloads\290742712_5426439514065544_7720475174201265764_n.jpg
+      multiline: null
     - id: pair_563a075f147241839095ef851ea3c96a
       name: images[]
       value: ""
       description: ""
       type: file
-      fileName: /Users/pci/Downloads/icons8-mysql-logo-48.png
+      fileName: C:\Users\richa\Downloads\290818165_3253608261563605_5397617970581428858_n.jpg
     - id: pair_923c0f47fcb944759c4ad9cf94fb42e1
       name: images[]
       value: ""
       description: ""
       type: file
-      fileName: /Users/pci/Downloads/icons8-vue-js-48.png
+      fileName: C:\Users\richa\Downloads\290818165_3253608261563605_5397617970581428858_n.jpg
     - id: pair_d47ec46caaee4112b688a76f63cd2886
       name: _method
       value: PUT
@@ -43,7 +44,7 @@ headers:
     description: ""
 authentication:
   type: bearer
-  token: 2|D7wgzhK5iG38gBOhDSIh3KLj53YgSC2F1Za8SLYd
+  token: "{{ _.token }}"
 metaSortKey: -1655469845654.6719
 isPrivate: false
 settingStoreCookies: true
