@@ -16,7 +16,6 @@ body:
       description: ""
       type: file
       fileName: C:\Users\richa\Downloads\290742712_5426439514065544_7720475174201265764_n.jpg
-      multiline: null
     - id: pair_563a075f147241839095ef851ea3c96a
       name: images[]
       value: ""
